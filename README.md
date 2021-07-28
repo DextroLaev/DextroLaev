@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar Rakshit</h1>
-<h3 align="center">A programmer who loves to task given to him. Always passionate about Deep learning and embedded system.</h3>
+<h2 align="center">A programmer who loves to solve task given to him. Always passionate about Deep learning and embedded system.</h2>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/DextroLaev/ML-with-TF-2),[concurrent programming](https://github.com/DextroLaev/Concurrent-Programming) and [Quadruped Robot](https://github.com/TheUnsolvedDev/Spider-Bot)
 
