@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/DextroLaev/ML-with-TF-2),[concurrent programming](https://github.com/DextroLaev/Concurrent-Programming) and [Quadruped Robot](https://github.com/TheUnsolvedDev/Spider-Bot)
 
-- 🌱 I’m currently learning **Tensorflow, Threading**
+- 🌱 I’m currently learning **Reinforcement Learning, Cuda Programming and Spiking Neural Nets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DextroLaev?tab=repositories](https://github.com/DextroLaev?tab=repositories)
 
