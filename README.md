@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar Rakshit</h1>
 <h2 align="center">A programmer who loves to solve task given to him. Always passionate about Deep learning and embedded system.</h2>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/DextroLaev/ML-with-TF-2),[concurrent programming](https://github.com/DextroLaev/Concurrent-Programming) and [Quadruped Robot](https://github.com/TheUnsolvedDev/Spider-Bot)
+- 🔭 I’m currently working on [Machine Learning](https://github.com/DextroLaev/ML-with-TF-2) and Spiking Neural Networks.
 
-- 🌱 I’m currently learning **Reinforcement Learning, Cuda Programming and Spiking Neural Nets**
+- 🌱 I’m currently learning **Reinforcement Learning, Deep Generative Models and Spiking Neural Nets**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DextroLaev?tab=repositories](https://github.com/DextroLaev?tab=repositories)
 
