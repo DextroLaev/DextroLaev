@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajshekhar Rakshit</h1>
 <h2 align="center">A programmer who loves to solve task given to him. Always passionate about Deep learning and embedded system.</h2>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/DextroLaev/ML-with-TF-2), Model Quantization and Spiking Neural Networks.
+- 🔭 I’m currently working on [Machine Learning](https://github.com/DextroLaev/ML-with-TF-2), Model Quantization and [Spiking Neural Networks](https://github.com/DextroLaev/Spiking-Neural-Networks).
 
 - 🌱 I’m currently learning **Reinforcement Learning, Deep Generative Models and Spiking Neural Nets**
 
